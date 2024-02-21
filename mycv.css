@@ -1,0 +1,76 @@
+body {
+    background-color: #9c9f84;
+    margin: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.siderleft {
+    padding: 20px;
+    font-size: 105%;
+    float: left;
+    width: 260px;
+    clear: left;
+}
+
+h1 {
+    font-size: 120%;
+    color: darkblue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.edu {
+    position: relative;
+    left: 370px;
+}
+
+h2 {
+    font-size: 120%;
+    color: darkblue;
+}
+
+.objective {
+    position: absolute;
+    top: 45%;
+    padding: 20px;
+    margin: 10px;
+    font-size: 160%;
+}
+
+.Educations {
+    position: absolute;
+    top: 75%;
+    padding: 20px;
+    font-size: 160%;
+    align-items: center;
+}
+
+.Experience {
+    position: absolute;
+    top: 150%;
+    padding: 20px;
+    font-size: 160%;
+    align-items: center;
+}
+
+.skill {
+    position: absolute;
+    top: 175%;
+    padding: 20px;
+    font-size: 160%;
+    align-items: center;
+}
+
+.skll {
+    position: relative;
+    left: 370px;
+}
+
+.project {
+    position: absolute;
+    top: 200%;
+    padding: 20px;
+    font-size: 160%;
+    align-items: center;
+}
